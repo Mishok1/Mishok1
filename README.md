@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mishok1
 - 👀 I’m interested in Front-End Developming
-- 🌱 I’m currently learning HTML5 and CSS3
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
 <!---
