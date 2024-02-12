@@ -9,6 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Mishok1)
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark)](https://mishok1.github.io/Yagoda/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Cat_Energy&theme=dark)](https://github.com/Mishok1/Cat_Energy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=beton&theme=dark)](https://www.konkretum.ru/)
