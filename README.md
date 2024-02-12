@@ -13,7 +13,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=beton&theme=dark)](https://www.konkretum.ru/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=myPage&theme=dark)](https://github.com/Mishok1/myPage)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=850" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=750" alt="GitHub Streak" /></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishok1&theme=dark&hide=stars&show_icons=true&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,6 +23,9 @@
 
 [![codewars](https://www.codewars.com/users/Mishok1/badges/large)](https://www.codewars.com/users/Mishok1)
 
+![](https://komarev.com/ghpvc/?username=Mishok1)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mishok1&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mishok1)](https://github.com/anuraghazra/github-readme-stats) -->
