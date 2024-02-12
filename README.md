@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
 
 <!---
 Mishok1/Mishok1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
