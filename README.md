@@ -8,15 +8,15 @@
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark&card_width=450px)](https://mishok1.github.io/Yagoda/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Cat_Energy&theme=dark&card_width=450px)](https://github.com/Mishok1/Cat_Energy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=beton&theme=dark&card_width=450px)](https://www.konkretum.ru/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=myPage&theme=dark&card_width=450px)](https://github.com/Mishok1/myPage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark)](https://mishok1.github.io/Yagoda/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Cat_Energy&theme=dark)](https://github.com/Mishok1/Cat_Energy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=beton&theme=dark)](https://www.konkretum.ru/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=myPage&theme=dark)](https://github.com/Mishok1/myPage)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishok1&layout=compact&theme=radical&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishok1&layout=compact&theme=radical&hide=php&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishok1&theme=dark&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishok1&theme=dark&hide=stars&show_icons=true&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
 
