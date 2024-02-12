@@ -7,14 +7,16 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishok1&theme=dark&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishok1&layout=compact&theme=radical&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mishok1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishok1&theme=dark&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=900" alt="GitHub Streak" /></a>
+
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mishok1)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!---
 Mishok1/Mishok1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
