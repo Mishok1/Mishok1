@@ -8,6 +8,7 @@
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda)](https://mishok1.github.io/Yagoda/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Cat_Energy)](https://mishok1.github.io/Yagoda/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=beton)](https://www.konkretum.ru/)
 
