@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
-![](https://komarev.com/ghpvc/?username=Mishok1)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
@@ -35,7 +34,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mishok1&theme=2077)
 
 
+![](https://komarev.com/ghpvc/?username=Mishok1)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
