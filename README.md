@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
+![](https://komarev.com/ghpvc/?username=Mishok1)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark)](https://mishok1.github.io/Yagoda/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Cat_Energy&theme=dark)](https://github.com/Mishok1/Cat_Energy)
@@ -23,9 +24,8 @@
 
 [![codewars](https://www.codewars.com/users/Mishok1/badges/large)](https://www.codewars.com/users/Mishok1)
 
-![](https://komarev.com/ghpvc/?username=Mishok1)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mishok1&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mishok1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mishok1)](https://github.com/anuraghazra/github-readme-stats) -->
