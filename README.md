@@ -26,15 +26,11 @@
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mishok1&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mishok1&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mishok1&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mishok1&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mishok1&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mishok1&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mishok1&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mishok1&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mishok1&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mishok1&theme=2077)
 
 
 
