@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+![](https://komarev.com/ghpvc/?username=Mishok1)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark)](https://mishok1.github.io/Yagoda/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Cat_Energy&theme=dark)](https://github.com/Mishok1/Cat_Energy)
@@ -34,9 +33,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mishok1&theme=2077)
 
 
-![](https://komarev.com/ghpvc/?username=Mishok1)
-
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
