@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishok1&layout=compact&theme=radical&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
