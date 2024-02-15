@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: michael.melnikov.work@gmail.com
 
+- It's just a test : )
+
 ![](https://komarev.com/ghpvc/?username=Mishok1)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark)](https://mishok1.github.io/Yagoda/)
