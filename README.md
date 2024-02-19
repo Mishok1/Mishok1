@@ -14,7 +14,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark)](https://mishok1.github.io/Yagoda/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Cat_Energy&theme=dark)](https://github.com/Mishok1/Cat_Energy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=beton&theme=dark)](https://www.konkretum.ru/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=myPage&theme=dark)](https://github.com/Mishok1/myPage)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800" alt="GitHub Streak" /></a>
 
@@ -26,7 +25,8 @@
 
 [![codewars](https://www.codewars.com/users/Mishok1/badges/large)](https://www.codewars.com/users/Mishok1)
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=23443279&theme=dark)](https://stackoverflow.com/users/23443279/michael-melnikov)  
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mishok1&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mishok1&theme=2077)
