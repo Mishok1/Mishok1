@@ -25,9 +25,9 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800" alt="GitHub Streak"/></a>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mishok21&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishok1&layout=compact&theme=radical&hide=php&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mishok21&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 [![codewars](https://www.codewars.com/users/Mishok1/badges/large)](https://www.codewars.com/users/Mishok1)
 
