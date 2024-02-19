@@ -9,6 +9,8 @@
 
 - It's just a test : )
 
+![](https://komarev.com/ghpvc/?username=Mishok1)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mishok1&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mishok1&theme=2077)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mishok1&theme=2077)
@@ -23,9 +25,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800" alt="GitHub Streak"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishok1&theme=dark&hide=stars&show_icons=true&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishok1&layout=compact&theme=radical&hide=php&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=23443279&theme=dark)](https://stackoverflow.com/users/23443279/michael-melnikov)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Mishok21&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 [![codewars](https://www.codewars.com/users/Mishok1/badges/large)](https://www.codewars.com/users/Mishok1)
