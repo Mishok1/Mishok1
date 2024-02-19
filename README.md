@@ -22,6 +22,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=HTML-Yagoda&theme=dark)](https://mishok1.github.io/HTML-Yagoda/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=HTML-Cat_Energy&theme=dark)](https://github.com/Mishok1/HTML-Cat_Energy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Konkretum&theme=dark)](https://www.konkretum.ru/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Test_2&theme=dark)](https://mishok1.github.io/Test_2/)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800" alt="GitHub Streak"/></a>
 
