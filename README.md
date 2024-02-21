@@ -32,13 +32,15 @@
 
 [![codewars](https://www.codewars.com/users/Mishok1/badges/large)](https://www.codewars.com/users/Mishok1)
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=23443279&theme=dark)](https://stackoverflow.com/users/23443279/michael-melnikov)
+
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mishok1)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mishok1)](https://github.com/anuraghazra/github-readme-stats) 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=23443279&theme=dark)](https://stackoverflow.com/users/23443279/michael-melnikov)
+-->
 
 
 <!---
