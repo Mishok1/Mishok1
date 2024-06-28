@@ -6,8 +6,8 @@
 - 👀 I’m interested in Front-End Developming
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me:
-        - email: michael.melnikov.work@gmail.com
-        - telegram: @Mishok21
+        / email: michael.melnikov.work@gmail.com
+        / telegram: @Mishok21
 
 ![](https://komarev.com/ghpvc/?username=Mishok1)
 
