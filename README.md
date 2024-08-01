@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=3AE6CA&random=false&width=435&lines=Software+engineer" alt="Typing SVG" /></a>
 - 👋 Hi, I’m @Mishok1
 - 👀 I’m interested in Front-End Developming
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React
 - 📫 How to reach me: email: michael.melnikov.work@gmail.com / telegram: @Mishok21
 
 ![](https://komarev.com/ghpvc/?username=Mishok1)
