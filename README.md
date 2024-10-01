@@ -17,7 +17,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Mishok1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Sangov_clinic&theme=dark)](https://github.com/Mishok1/Sangov_clinic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Test_6&theme=dark)](https://github.com/Mishok1/Test_6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Konkretum&theme=dark)](https://github.com/Mishok1/Konkretum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Drink2Go&theme=dark)](https://github.com/Mishok1/Drink2Go)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark)](https://github.com/Mishok1/Yagoda)
