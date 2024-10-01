@@ -17,10 +17,10 @@
 
 ![](https://komarev.com/ghpvc/?username=Mishok1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=HTML-Yagoda&theme=dark)](https://mishok1.github.io/HTML-Yagoda/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=HTML-Cat_Energy&theme=dark)](https://github.com/Mishok1/HTML-Cat_Energy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Konkretum&theme=dark)](https://www.konkretum.ru/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Test_3&theme=dark)](https://mishok1.github.io/Test_3/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Sangov_clinic&theme=dark)](https://github.com/Mishok1/Sangov_clinic)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Konkretum&theme=dark)](https://github.com/Mishok1/Konkretum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Drink2Go&theme=dark)](https://github.com/Mishok1/Drink2Go)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark)](https://github.com/Mishok1/Yagoda)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800" alt="GitHub Streak"/></a>
 
