@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Michael Melnikov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I’m currently learning React/TypeScript</h3>
+<h3 align="center">I’m currently learning Animation</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=1000&color=3AE6CA&random=false&width=435&lines=Software+engineer" alt="Typing SVG" /></a>
 - 👋 Hi, I’m @Mishok1
 - 👀 I’m interested in Front-End Developming
-- 🌱 I’m currently learning Regex and Algorithms
+- 🌱 I’m currently learning Animation
 - 📫 How to reach me: email: michael.melnikov.work@gmail.com / telegram: @Mishok21
 
 ![](https://komarev.com/ghpvc/?username=Mishok1)
