@@ -17,16 +17,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Mishok1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Test_6&theme=dark)](https://github.com/Mishok1/Test_6)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Konkretum&theme=dark)](https://github.com/Mishok1/Konkretum)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Drink2Go&theme=dark)](https://github.com/Mishok1/Drink2Go)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mishok1&repo=Yagoda&theme=dark)](https://github.com/Mishok1/Yagoda)
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mishok1&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=800" alt="GitHub Streak"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishok1&layout=compact&theme=radical&hide=php&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
-
-[![codewars](https://www.codewars.com/users/Mishok1/badges/large)](https://www.codewars.com/users/Mishok1)
+(https://github.com/anuraghazra/github-readme-stats)
 
 
 
